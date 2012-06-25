@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+ <meta charset="UTF-8"/>
+ <link rel="stylesheet" type="text/css" href="index.css"/>
+ <title>Quanto Custa ?ara</title>
+</head>
+
+<body>
+
+	<p>Estrutura Básica de um HTML</p>
+
+	<pre>Estrutura Básica de uma página</pre>
+
+	<a href="javascript: history.go(-1)">Voltar ao artigo</a>
+
+</body>
+
+</html>
